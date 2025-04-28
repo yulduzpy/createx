@@ -148,3 +148,10 @@ a {
   font-weight: 400;
   color: #1e212c;
 }
+/* about section styles */
+.about__wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 96px;
+}
